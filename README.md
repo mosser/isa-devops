@@ -65,9 +65,13 @@ Even if the case study is shared and the course merged, this is administratively
     - Project (code + report): 20% 
     - Final exam: 40%
   - _DevOps & Continuous Testing_
-    - Mutation testing: ? %
-    - Intermediate demonstration: ? %
-    - ...
+    - Mutation testing - Deliverable 1 - March 2nd - 15 %
+    - Continuous Integration - Deliverable 2 - March 28th - 10%
+    - Intermediate demonstration - March 30th - 10%
+    - Light containers and scaling - Deliverable 3 - April 21st - 10%
+    - Final presentation - May 4th - 15%
+    - Final exam - May 18th - 40%
+
 
 ## Tooling
 
