@@ -21,27 +21,12 @@ The whole project relies on an open-source reference implementation of _The Cook
 
 <html><div align="center"></html>
 
-Week | Friday AM (Lect) | Friday AM (Lab) | Friday PM (Lect) | Friday PM (Lab) 
------------- | ------------- | ------------- | ------------- | ------------- 
-6 | Intro to Software Architecture  | -  |  DevOps overview  |  Mutation testing  
-7 | - | _Case study (arch)_  | Architecture for Testing | Mutation contd.
-8 | - | _Mutation contd._ | Functional & Integration Testing |  Case study (arch) 
-9 | Software Components | Case study  | Architecture Dojo (TCF) | Case study 
-**10** | _**Winter Break**_ | **-** | **-** | **-**
-11 | Interoperability & Web Services|  Case study  |  Continuous Integration | Arch. slicing
-12 | Continuous Integration | Case study (slicing) | Build plan & Pipeline |  Case study
-13 | **Oral presentation (MVP)**| _Case study_ | **Oral presentation** | _Case study_
-14 | Persistence | Case study | Deployment | Case study
-15 | Architectural Dojo |  Case study | Software containers | Case study (docker) 
-16 | Q&A, Arch. Stepback | Case study | Scaling | Case study  
-**17** | **Easter Break** | **-** | **-** | **-**
-18 | **Oral presentation**| _Case study_ | **Oral presentation** | _Case study_
-**19** | **-** | **-** | **-** | **-**
-20 | Exam / Architecture (3h) | - |  Exam / DevOps (3h) | - 
+![https://raw.githubusercontent.com/mosser/isa-devops/master/figs/planning.png](https://raw.githubusercontent.com/mosser/isa-devops/master/figs/planning.png)
 
 <html></div></html>
 
-_Italic sessions_ are unsupervised. 
+  - Blue sessions are related to _ISA_
+  - Green sessions are related to _DevOps_
 
 ### Deliveries & Milestones
 
