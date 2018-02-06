@@ -15,6 +15,11 @@ The whole project relies on an open-source reference implementation of _The Cook
   * [Sébastien Mosser](mosser@i3s.unice.fr), Université Côte d'Azur, CNRS, I3S (co-head, ISA)
   * [Anne-Marie Pinna-Déry](pinna@unice.fr), Université Côte d'Azur, CNRS, I3S
 
+### Specific pages (e.g., lecture material)
+
+  * [Introduction to Software Architecture](https://github.com/mosser/isa-devops/tree/master/ISA/README.md)
+  * [DevOps & Continuous Testing](https://github.com/mosser/isa-devops/tree/master/DevOps/README.md)
+
 
 ## Planning 
 
@@ -38,7 +43,7 @@ The whole project relies on an open-source reference implementation of _The Cook
   -  04.05.18: Final project (_demo_)
   -  16.05.18: Final project (_code + report_)
   -  18.05.18: Exam
-
+  
 ### Evaluation
 
 Even if the case study is shared and the course merged, this is administratively talking two different courses. As a consequence, the evaluation must be separated.
