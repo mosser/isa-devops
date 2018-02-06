@@ -15,7 +15,7 @@ The whole project relies on an open-source reference implementation of _The Cook
   * [Sébastien Mosser](mosser@i3s.unice.fr), Université Côte d'Azur, CNRS, I3S (co-head, ISA)
   * [Anne-Marie Pinna-Déry](pinna@unice.fr), Université Côte d'Azur, CNRS, I3S
 
-### Specific pages (e.g., lecture material)
+### Specific pages (e.g., lectures material, deliverable contents)
 
   * [Introduction to Software Architecture](https://github.com/mosser/isa-devops/tree/master/ISA/README.md)
   * [DevOps & Continuous Testing](https://github.com/mosser/isa-devops/tree/master/DevOps/README.md)
@@ -32,8 +32,11 @@ The whole project relies on an open-source reference implementation of _The Cook
 
   - Blue sessions are related to _ISA_
   - Green sessions are related to _DevOps_
+  - Red sessions are related to _examinations_ (defence or written exam)
 
 ### Deliveries & Milestones
+
+Deliveries are automatically extracted from the _BitBucket_ repository of the team.
 
   - 16.02.18, 12:15: MVP architecture (feedback only)
   - 28.02.18, 19:00:
