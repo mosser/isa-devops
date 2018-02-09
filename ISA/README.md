@@ -17,12 +17,40 @@
   - Lecture #3: Interoperability & Web Services
   - Lecture #4: Persistent Entities 
 
+### Examples of _good_ architecture reports (FR):
+
+  - 2015: The Cookie Factory. [Report #1](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2015_1.pdf), [Report #2](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2015_2.pdf)
+  - 2016: Isola 3000. [Report #1](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2016_1.pdf), [Report #2](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2016_2.pdf)
+  - 2017: Disloyalty card. [Report #1](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2017_1.pdf) [Report #2](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2017_2.pdf)
+
+
 ## Deliverables
 
 ### Architecture Report
 
-  - TBA
+You must deliver a PDF file at the root of your `main` repository on Mjøllnir, named `architecture.pdf`. There is no page limits but _concision_ is an evaluation criteria (and your report should be ~15 pages long). 
 
-### Final Project
+It must contain the following architecture description:
+
+  - Use cases diagrams;
+  - Business objects definition as class diagram;
+    - Associated persistent schema and object-relational mapping definition; 
+  - Interfaces pseudo-code definition (_e.g._, Java like);
+  - Components described by a component diagram;
+  - Deployment of the defined components as a deployment diagram;
+
+Each artefact must be justified with respect to its relevance in your architecture.
+
+Non-exhaustive list of common pitfalls to avoid in your work:
+
+  - spending (way) too much time on use cases definition and description;
+  - defining interfaces and components that do not support than _business_;
+  - Weird responsibilities for components (_e.g._, god component, disconnected assemblies, dangling element)
+  - Unjustified object-relational mapping
+  - Lack of proper description/justification for the interfaces
+  - Interfaces that relies on _ids_ and primitive objects (_e.g._, String, Integers) instead of business objects.
+
+
+### Final Project Delivery
 
   - TBA

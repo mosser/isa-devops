@@ -8,10 +8,12 @@ The course is scheduled each Friday, during semester #8. The course requires to 
 
 The whole project relies on an open-source reference implementation of _The Cookie Factory_, a system to sell cookies to delighted customers: [https://github.com/polytechnice-si/4A_ISA_TheCookieFactory](https://github.com/polytechnice-si/4A_ISA_TheCookieFactory)
 
+A paper (extended abstract) describing this course is published in the "_First international workshop on software engineering aspects of continuous development and new paradigms of software production and deployment"_ (_aka_ [DevOps'18](https://www.laser-foundation.org/devops/2018/)), and available here: [devops_paper.pdf](https://github.com/mosser/isa-devops/blob/master/devops_paper.pdf).
+
 ## Teaching Staff
 
   * [Philippe Collet](collet@i3s.unice.fr), Université Côte d'Azur, CNRS, I3S
-  * [Guilhem Molines](Guilhem.Molines@unice.fr), IBM, Université Côte d'Azur (co-head, DOCT)
+  * [Guilhem Molines](Guilhem.Molines@unice.fr), IBM France Labs, Université Côte d'Azur (co-head, DOCT)
   * [Sébastien Mosser](mosser@i3s.unice.fr), Université Côte d'Azur, CNRS, I3S (co-head, ISA)
   * [Anne-Marie Pinna-Déry](pinna@unice.fr), Université Côte d'Azur, CNRS, I3S
 
@@ -19,6 +21,10 @@ The whole project relies on an open-source reference implementation of _The Cook
 
   * [Introduction to Software Architecture](https://github.com/mosser/isa-devops/tree/master/ISA/README.md)
   * [DevOps & Continuous Testing](https://github.com/mosser/isa-devops/tree/master/DevOps/README.md)
+
+### Case study description: The Poly'Event system (FR)
+
+  * [Poly'Event product vision](https://docs.google.com/document/d/1MvFrdQO4lnyl1Kd1vR7n14b60FlICVVA9i3FNSN6pcM/edit?usp=sharing)
 
 
 ## Planning 

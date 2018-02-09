@@ -3,7 +3,7 @@
 ## Teaching Staff
 
   * [Philippe Collet](collet@i3s.unice.fr), Université Côte d'Azur, CNRS, I3S
-  * [Guilhem Molines](Guilhem.Molines@unice.fr), IBM, Université Côte d'Azur (co-head, DOCT)
+  * [Guilhem Molines](Guilhem.Molines@unice.fr), IBM France Labs, Université Côte d'Azur (co-head, DOCT)
 
 
 ## Lecture Material
