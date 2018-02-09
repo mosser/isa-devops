@@ -47,10 +47,10 @@ Deliveries are automatically extracted from the _BitBucket_ repository of the te
   - 16.02.18, 12:15: MVP architecture (feedback only)
   - 28.02.18, 19:00:
     - Mutation testing lab (DOCT)
-    - Architecture report (ISA)
-  -  30.03.18: Minimal Viable Product (_demo_)
+    - Architecture report (ISA): `main` repository, `archi` tag.
+  -  30.03.18: Minimal Viable Product (_demo_) 
   -  04.05.18: Final project (_demo_)
-  -  16.05.18: Final project (_code + report_)
+  -  16.05.18: Final project (_code + report_): `main` repository, `polyevent` tag.
   -  18.05.18: Exam
   
 ### Evaluation
