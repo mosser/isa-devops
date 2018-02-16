@@ -9,7 +9,7 @@
 ## Lecture Material
 
   - Lecture #1: [DevOps Overview](https://github.com/mosser/isa-devops/blob/master/DevOps/week1_test_architecture_v0.1.pdf)
-  - Lecture #2: Architecture For Testing
+  - Lecture #2: [Architecture For Testing](https://github.com/mosser/isa-devops/blob/master/DevOps/week2_test_architecture_v0.2.pdf)
   - Lecture #3: Functional & Integration Testing
   - Lecture #4: Continuous Integration
     - 4.1: Part one
