@@ -23,7 +23,18 @@
 
 ### Mutation Testing
 
-  - TBA
+You must deliver a PDF file at the root of your `main` repository on Mjøllnir, named `mutants.pdf`. There is no page limit but _concision_ is an evaluation criteria (and your report should be ~3 pages long).
+
+It must contain the following description:
+
+  - What are your directory structure and language/script choices;
+  - How are mutators compiled and applied to your target project;
+  - Which mutation did you write, and why?;
+  - What issues did you run into, and how did you solve them?;
+  - What characterizes good mutators?;
+  - What did you learn?
+
+Moreover, your code and scripts in your repository(ies) must be tagged with "mutant_delivery".
 
 ### Final Project
 
