@@ -34,7 +34,7 @@ It must contain the following description:
   - What characterizes good mutators?;
   - What did you learn?
 
-Moreover, your code and scripts in your repository(ies) must be tagged with "mutant_delivery".
+Moreover, your code and scripts in your repository(ies) must be tagged with `mutant_delivery`. Please specify the list of repositories to include if you deliver several.
 
 ### Final Project
 
