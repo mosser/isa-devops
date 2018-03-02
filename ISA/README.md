@@ -14,6 +14,8 @@
     - [#1.3: Architectural Viewpoints](https://github.com/mosser/isa-devops/blob/master/ISA/01_3_Viewpoints.pdf)
     - [#1.4: Object-Relational Mapping](https://github.com/mosser/isa-devops/blob/master/ISA/01_4_ORM.pdf)
   - Lecture #2: Software Components
+    - [#2.1: Components as EJBs](https://github.com/mosser/isa-devops/blob/master/ISA/02_1_ejb101.pdf)
+    - [#2.2: Domain components (EJBs Session)](https://github.com/mosser/isa-devops/blob/master/ISA/02_2_ejb_session.pdf)
   - Lecture #3: Interoperability & Web Services
   - Lecture #4: Persistent Entities 
 
