@@ -14,7 +14,9 @@
     - [#1.3: Architectural Viewpoints](https://github.com/mosser/isa-devops/blob/master/ISA/01_3_Viewpoints.pdf)
     - [#1.4: Object-Relational Mapping](https://github.com/mosser/isa-devops/blob/master/ISA/01_4_ORM.pdf)
   - Lecture #2: Software Components
-  - Lecture #3: Interoperability & Web Services
+    - [#2.1: Components as EJBs](https://github.com/mosser/isa-devops/blob/master/ISA/02_1_ejb101.pdf)
+    - [#2.2: Domain components (EJBs Session)](https://github.com/mosser/isa-devops/blob/master/ISA/02_2_ejb_session.pdf)
+  - Lecture #3: [Interoperability & Web Services](https://github.com/mosser/isa-devops/blob/master/ISA/03_services.pdf)
   - Lecture #4: Persistent Entities 
 
 ### Examples of _good_ architecture reports (FR):
@@ -22,6 +24,10 @@
   - 2015: The Cookie Factory. [Report #1](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2015_1.pdf), [Report #2](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2015_2.pdf)
   - 2016: Isola 3000. [Report #1](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2016_1.pdf), [Report #2](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2016_2.pdf)
   - 2017: Disloyalty card. [Report #1](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2017_1.pdf) [Report #2](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2017_2.pdf)
+
+### Previous exams (FR)
+
+  - [2017](https://github.com/mosser/isa-devops/blob/master/ISA/exams/exam_2017.pdf)
 
 
 ## Deliverables

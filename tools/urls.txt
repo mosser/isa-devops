@@ -1,0 +1,14 @@
+# Promotion
+https://#USER#@mjollnir.unice.fr/bitbucket/scm/ida/#REPOSITORY#.git;IDA
+https://#USER#@mjollnir.unice.fr/bitbucket/scm/idb/#REPOSITORY#.git;IDB
+https://#USER#@mjollnir.unice.fr/bitbucket/scm/idc/#REPOSITORY#.git;IDC
+https://#USER#@mjollnir.unice.fr/bitbucket/scm/idd/#REPOSITORY#.git;IDD
+https://#USER#@mjollnir.unice.fr/bitbucket/scm/ide/#REPOSITORY#.git;IDE
+https://#USER#@mjollnir.unice.fr/bitbucket/scm/idf/#REPOSITORY#.git;IDF
+https://#USER#@mjollnir.unice.fr/bitbucket/scm/idg/#REPOSITORY#.git;IDG
+https://#USER#@mjollnir.unice.fr/bitbucket/scm/idh/#REPOSITORY#.git;IDH
+https://#USER#@mjollnir.unice.fr/bitbucket/scm/idi/#REPOSITORY#.git;IDI
+https://#USER#@mjollnir.unice.fr/bitbucket/scm/idj/#REPOSITORY#.git;IDJ
+https://#USER#@mjollnir.unice.fr/bitbucket/scm/idk/#REPOSITORY#.git;IDK
+https://#USER#@mjollnir.unice.fr/bitbucket/scm/idl/#REPOSITORY#.git;IDL
+## That's all folks
