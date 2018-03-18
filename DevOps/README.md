@@ -12,7 +12,7 @@
   - Lecture #2: [Architecture For Testing](https://github.com/mosser/isa-devops/blob/master/DevOps/week2_test_architecture_v0.2.pdf)
   - Lecture #3: [Functional & Integration Testing](https://github.com/mosser/isa-devops/blob/master/DevOps/week3_testing_v0.3.pdf)
   - Lecture #4: Continuous Integration
-    - 4.1: Part one
+    - 4.1: [Part one](https://github.com/mosser/isa-devops/blob/master/DevOps/week4_software_factory_v0.3.pdf)
     - 4.2: Part two
   - Lecture #5: Build plan & Pipelines
   - Lecture #6: Deployment
