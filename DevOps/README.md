@@ -18,6 +18,12 @@
   - Lecture #6: Software Containers
   - Lecture #7: Scaling
 
+
+## Previous exams (FR)
+
+  - [2016](https://github.com/mosser/isa-devops/blob/master/DevOps/exams/examen2016.pdf)
+  - [2017](https://github.com/mosser/isa-devops/blob/master/DevOps/exams/examen2017-2.pdf)
+
 ## Deliverables
 
 ### Mutation Testing
