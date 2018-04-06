@@ -13,11 +13,16 @@
   - Lecture #3: [Functional & Integration Testing](https://github.com/mosser/isa-devops/blob/master/DevOps/week3_testing_v0.3.pdf)
   - Lecture #4: Continuous Integration
     - 4.1: [Part one](https://github.com/mosser/isa-devops/blob/master/DevOps/week4_software_factory_v0.3.pdf)
-    - 4.2: Part two
-  - Lecture #5: Build plan & Pipelines
-  - Lecture #6: Deployment
-  - Lecture #7: Software Containers
-  - Lecture #8: Scaling
+    - 4.2: [Part two](https://github.com/mosser/isa-devops/blob/master/DevOps/week5_software_factory2_v0.3.pdf)
+  - Lecture #5: Deployment
+  - Lecture #6: Software Containers
+  - Lecture #7: Scaling
+
+
+## Previous exams (FR)
+
+  - [2016](https://github.com/mosser/isa-devops/blob/master/DevOps/exams/examen2016.pdf)
+  - [2017](https://github.com/mosser/isa-devops/blob/master/DevOps/exams/examen2017-2.pdf)
 
 ## Deliverables
 

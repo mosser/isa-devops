@@ -1,0 +1,18 @@
+Bonjour,
+
+Voici un peu de feedback sur ce que nous avons vu aux soutenances de vendredi, sur la partie DevOps.
+
+Tout d'abord, sur l'axe "Compilation séparée" (évalué sur 3 points): cet aspect là est maitrisé, à part un groupe vous avez tous 2 ou plus sur 3. Vous arrivez à compiler les composants séparemment, avec des dépendences entre modules correctement positionnées. Par contre, peu d'entre vous ont trouvé comment factoriser les déclarations de dépendances vers les third-parties. Si vous voulez changer de version de jUnit, il faut mettre à jour tous les poms... Pour ceux qui veulent creuser ce point, étudier la différence entre un parent pom et un root pom.
+
+Aspect suivant, "Artifactory" (évalué sur 4 points), ça marche comme il faut pour plus de la moitié des groupes, mais quelques uns ne maitrisent pas le concept ou gauffre la démo, c'est dommage. Un groupe nous a fait une démo en débranchant internet pour montrer l'indépendance de compilation des modules, bonne idée ! Un groupe nous a posé du source dans Artifactory, bof bof....
+
+Ensuite "Jenkins" (évalué sur 6 points), là c'est plus mitigé. Le point qui pêche le plus
+souvent est la manière de déclencher les plans de build, et surtout le recul sur les différentes façons de faire: si on séquence explicitement les plans, on duplique de l'info qui est dans les poms, par contre on controle exactement l'ordre, notamment si on veut déclencher des plans de tests (Eg: si on coupe les tests sur 2 plans). On aurait bien voulu entendre une explication sur ça aux questions.
+
+Enfin le côté "Tests" (évalué sur 6 points), à part trois groupes qui ont bien fini cet aspect, avec des tests arquillian, des mocks, pour la majorité c'est l'aspect le plus léger, et surtout, à part quelques groupes qui ont fait des démos de cassage volontaire, c'est souvent l'aspect le moins bien démontré. On espérait aussi une petite explication sur comment faire au mieux quand on a des tests qui dépendent d'un serveur externe.
+
+Dernier point alloué sur un bonus, on en avait prévu trois possibles: compil séparée de la partie non-java (2 groupes l'ont fait), third-parties stockées aussi dans Artifactory (personne n'y a pensé) et Hook Jenkins (un quart y a pensé). Je vous parle de ces 3 points au prochain cours.
+
+A bientôt,
+
+Philippe Collet et Guilhem Molines
