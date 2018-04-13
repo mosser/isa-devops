@@ -14,8 +14,8 @@
   - Lecture #4: Continuous Integration
     - 4.1: [Part one](https://github.com/mosser/isa-devops/blob/master/DevOps/week4_software_factory_v0.3.pdf)
     - 4.2: [Part two](https://github.com/mosser/isa-devops/blob/master/DevOps/week5_software_factory2_v0.3.pdf)
-  - Lecture #5: Deployment
-  - Lecture #6: Software Containers
+  - Lecture #5: [Deployment](https://github.com/mosser/isa-devops/blob/master/DevOps/week6_deployment_v0.3.pdf)
+  - Lecture #6: [Software Containers](https://github.com/mosser/isa-devops/blob/master/DevOps/week7_containers_v0.3.pdf)
   - Lecture #7: Scaling
 
 
