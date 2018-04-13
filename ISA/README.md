@@ -17,7 +17,8 @@
     - [#2.1: Components as EJBs](https://github.com/mosser/isa-devops/blob/master/ISA/02_1_ejb101.pdf)
     - [#2.2: Domain components (EJBs Session)](https://github.com/mosser/isa-devops/blob/master/ISA/02_2_ejb_session.pdf)
   - Lecture #3: [Interoperability & Web Services](https://github.com/mosser/isa-devops/blob/master/ISA/03_services.pdf)
-  - Lecture #4: Persistent Entities 
+  - Lecture #4: [Persistent Entities](https://github.com/mosser/isa-devops/blob/master/ISA/04_ejb_entities.pdf) 
+  - Lecture #5: [J2E++](https://github.com/mosser/isa-devops/blob/master/ISA/05_j2e_plus_plus.pdf) 
 
 ### Examples of _good_ architecture reports (FR):
 
