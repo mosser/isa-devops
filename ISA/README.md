@@ -29,7 +29,7 @@
 ### Previous exams (FR)
 
   - [2017](https://github.com/mosser/isa-devops/blob/master/ISA/exams/exam_2017.pdf)
-
+  - [2018](https://github.com/mosser/isa-devops/blob/master/ISA/exams/exam_2018.pdf)
 
 ## Deliverables
 
