@@ -49,7 +49,7 @@ Deliveries are automatically extracted from the _BitBucket_ repository of the te
     - Mutation testing lab (DOCT)
     - Architecture report (ISA): `main` repository, `archi` tag.
   -  30.03.18: [Minimal Viable Product](https://github.com/mosser/isa-devops/tree/master/demos/Demo_MVP.md) (_demo_) 
-  -  04.05.18: Final project (_demo_)
+  -  04.05.18: [(Almots) Final project](https://github.com/mosser/isa-devops/blob/master/demos/Demo_AlmostFinal.md) (_demo_)
   -  16.05.18: Final project (_code + report_): `main` repository, `polyevent` tag.
   -  18.05.18: Exam
   
