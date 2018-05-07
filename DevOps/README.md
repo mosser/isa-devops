@@ -43,7 +43,7 @@ Moreover, your code and scripts in your repository(ies) must be tagged with `mut
 
 ### Final Project
 
-We will checkout your code in the main repository, with the git options to extract the tag `archi` and to follow sub-modules.
+We will checkout your code in the main repository, with the git options to extract the tag `polyevent` and to follow sub-modules.
 
 Once done, we will launch the script `build.sh` that you will have placed at the root of this extraction. This scripts should trigger a full build of everything all the way to the docker images of your project. Our evaluation machines have (at least) bash, maven, python, ant, perl, docker on them. Should anything else be required for the script to run, then the script has to say it.
 
