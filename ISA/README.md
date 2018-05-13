@@ -2,8 +2,8 @@
 
 ## Teaching Staff
 
-  * [S√©bastien Mosser](mosser@i3s.unice.fr), Universit√© C√¥te d'Azur, CNRS, I3S (co-head, ISA)
-  * [Anne-Marie Pinna-D√©ry](pinna@unice.fr), Universit√© C√¥te d'Azur, CNRS, I3S
+  * [Sébastien Mosser](mosser@i3s.unice.fr), Université Côte d'Azur, CNRS, I3S (co-head, ISA)
+  * [Anne-Marie Pinna-Déry](pinna@unice.fr), Université Côte d'Azur, CNRS, I3S
 
 
 ## Lecture Material
@@ -35,7 +35,7 @@
 
 ### Architecture Report
 
-You must deliver a PDF file at the root of your `main` repository on Mj√∏llnir, named `architecture.pdf`. There is no page limits but _concision_ is an evaluation criteria (and your report should be ~15 pages long). 
+You must deliver a PDF file at the root of your `main` repository on Mjøllnir, named `architecture.pdf`. There is no page limits but _concision_ is an evaluation criteria (and your report should be ~15 pages long). 
 
 It must contain the following architecture description:
 
@@ -60,4 +60,7 @@ Non-exhaustive list of common pitfalls to avoid in your work:
 
 ### Final Project Delivery
 
-  - TBA
+  - you need to deliver according to the instructions [here](https://github.com/mosser/isa-devops/blob/master/DevOps/README.md)
+  - at the root, you should have a `components.pdf` file representing your component diagram
+  - at the root, you should have a `archi.md` file representing your architecture report
+  - the deliverable for both ISA and DevOps will be extracting using [this script](https://github.com/mosser/isa-devops/blob/master/tools/deliver_polyevent.sh). Make sure your git repository tag is correct.
