@@ -2,8 +2,8 @@
 
 ## Teaching Staff
 
-  * [Sébastien Mosser](mosser@i3s.unice.fr), Université Côte d'Azur, CNRS, I3S (co-head, ISA)
-  * [Anne-Marie Pinna-Déry](pinna@unice.fr), Université Côte d'Azur, CNRS, I3S
+  * [S≈Ωbastien Mosser](mosser@i3s.unice.fr), Universit≈Ω C‚Ñ¢te d'Azur, CNRS, I3S (co-head, ISA)
+  * [Anne-Marie Pinna-D≈Ωry](pinna@unice.fr), Universit≈Ω C‚Ñ¢te d'Azur, CNRS, I3S
 
 
 ## Lecture Material
@@ -20,12 +20,6 @@
   - Lecture #4: [Persistent Entities](https://github.com/mosser/isa-devops/blob/master/ISA/04_ejb_entities.pdf) 
   - Lecture #5: [J2E++](https://github.com/mosser/isa-devops/blob/master/ISA/05_j2e_plus_plus.pdf) 
 
-### Examples of _good_ architecture reports (FR):
-
-  - 2015: The Cookie Factory. [Report #1](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2015_1.pdf), [Report #2](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2015_2.pdf)
-  - 2016: Isola 3000. [Report #1](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2016_1.pdf), [Report #2](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2016_2.pdf)
-  - 2017: Disloyalty card. [Report #1](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2017_1.pdf) [Report #2](https://github.com/mosser/isa-devops/blob/master/ISA/reports_examples/2017_2.pdf)
-
 ### Previous exams (FR)
 
   - [2017](https://github.com/mosser/isa-devops/blob/master/ISA/exams/exam_2017.pdf)
@@ -35,7 +29,7 @@
 
 ### Architecture Report
 
-You must deliver a PDF file at the root of your `main` repository on Mjøllnir, named `architecture.pdf`. There is no page limits but _concision_ is an evaluation criteria (and your report should be ~15 pages long). 
+You must deliver a PDF file at the root of your `main` repository on Mj¬øllnir, named `architecture.pdf`. There is no page limits but _concision_ is an evaluation criteria (and your report should be ~15 pages long). 
 
 It must contain the following architecture description:
 
